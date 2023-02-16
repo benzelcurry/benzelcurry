@@ -1,6 +1,6 @@
 ### Hey there, I'm Ben! 👋
 - 🔭 I’m currently working on full stack applications and experimenting with different technologies.
-- 🌱 I’m currently learning TypeScript and SQL.
+- 🌱 I’m currently learning TypeScript and reviewing data structures & algorithms.
 - 👯 I’m looking to collaborate on any projects in order to foster my development skills and demonstrate my teamwork abilities.
 - 💬 Ask me about my interest in programming!
 - 📫 How to reach me: Send me an email at benawhiting@gmail.com (preferred) or send me a message on [LinkedIn](https://www.linkedin.com/in/ben-whiting-563526207/)
